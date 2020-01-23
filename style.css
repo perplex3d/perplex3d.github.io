@@ -1,0 +1,64 @@
+html * {
+    font-family: Verdana;
+}
+
+body {
+    background-color: #A7BFFE;
+    color: black;
+    margin-left: 48px;
+    margin-right: 48px;
+}
+
+.header {
+    text-align: center;
+}
+
+.tagline {
+    text-align: center;
+    position: relative;
+    left: -64px;
+}
+
+.header img {
+    width: 128px;
+    height: 128px;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    left: -64px;
+}
+
+.header h1 {
+    font-size: 48pt;
+    font-family: Helvetica;
+    color: white;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    left: -64px;
+}
+
+.motivation {
+    display: table-row;
+}
+
+.quote-container {
+    display: table-cell;
+    width: 40%;
+}
+
+.quote {
+    text-align: justify;
+    font-style: oblique 40deg;
+    color: #404040;
+}
+
+.attribution {
+    display: table-row;
+}
+
+.name {
+    text-align: right;
+    display: table-cell;
+    width: 40%;
+}
