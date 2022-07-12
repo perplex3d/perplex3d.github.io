@@ -1,0 +1,19 @@
+<svg height="1024" viewBox="-512 -512 1024 1024" width="1024" xmlns="http://www.w3.org/2000/svg">
+<polygon fill="#c0ffe0" points="435.405 0 217.7025 -125.6906 0 0 217.7025 125.6906" stroke="none"/>
+<polygon fill="#40c0e0" points="435.405 0 435.405 -251.3812 217.7025 -377.07178 217.7025 -125.6906" stroke="none"/>
+<polygon fill="#ffc0e0" points="217.7025 -377.07178 0 -251.3812 0 0 217.7025 -125.6906" stroke="none"/>
+<polygon fill="#c0ffe0" points="217.7025 -377.07178 0 -502.7624 -217.7025 -377.07178 0 -251.3812" stroke="none"/>
+<polygon fill="#40c0e0" points="-217.7025 -377.07178 -217.7025 -125.6906 0 0 0 -251.3812" stroke="none"/>
+<polygon fill="#ffc0e0" points="-217.7025 -377.07178 -435.405 -251.3812 -435.405 0 -217.7025 -125.6906" stroke="none"/>
+<polygon fill="#c0ffe0" points="-435.405 0 -217.7025 125.6906 0 0 -217.7025 -125.6906" stroke="none"/>
+<polygon fill="#40c0e0" points="-435.405 0 -435.405 251.3812 -217.7025 377.07178 -217.7025 125.6906" stroke="none"/>
+<polygon fill="#ffc0e0" points="-217.7025 377.07178 0 251.3812 0 0 -217.7025 125.6906" stroke="none"/>
+<polygon fill="#c0ffe0" points="-217.7025 377.07178 0 502.7624 217.7025 377.07178 0 251.3812" stroke="none"/>
+<polygon fill="#40c0e0" points="217.7025 377.07178 217.7025 125.6906 0 0 0 251.3812" stroke="none"/>
+<polygon fill="#ffc0e0" points="217.7025 377.07178 435.405 251.3812 435.405 0 217.7025 125.6906" stroke="none"/>
+<polygon fill="none" points="435.405 -251.3812 0 -502.7624 -435.405 -251.3812 -435.405 251.3812 0 502.7624 435.405 251.3812" stroke="black" stroke-linejoin="miter" stroke-width="16"/>
+<polygon fill="none" points="435.405 0 217.7025 -125.6906 217.7025 -377.07178 0 -251.3812 -217.7025 -377.07178 -217.7025 -125.6906 -435.405 0 -217.7025 125.6906 -217.7025 377.07178 0 251.3812 217.7025 377.07178 217.7025 125.6906" stroke="black" stroke-linejoin="bevel" stroke-width="16"/>
+<line stroke="black" stroke-width="16" x1="217.7025" x2="-217.7025" y1="-125.6906" y2="125.6906"/>
+<line stroke="black" stroke-width="16" x1="0" x2="0" y1="-251.3812" y2="251.3812"/>
+<line stroke="black" stroke-width="16" x1="-217.7025" x2="217.7025" y1="-125.6906" y2="125.6906"/>
+</svg>
