@@ -9,6 +9,12 @@ html, body {
     background: #E0E0E0;
 }
 
+h1 {
+    font-size: 32;
+    font-weight: bolder;
+    margin-bottom: 0;
+}
+
 div.page {
     position: absolute;
     left: 50%;
